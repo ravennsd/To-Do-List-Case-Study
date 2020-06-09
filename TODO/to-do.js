@@ -41,7 +41,7 @@ function toDo() {
             myFunction(apiList);
         }
     };
-    xhttp.open("GET", "to-do.JSON", true);
+    xhttp.open("GET", "https://jsonplaceholder.typicode.com/todos", true);
     xhttp.send();
 }
 

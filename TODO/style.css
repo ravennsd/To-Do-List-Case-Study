@@ -18,3 +18,24 @@ li a {
     margin:2rem;
     padding:0;
 }
+#login {
+    font-size: x-large;
+    text-align: center;
+    color: darkred;
+}
+.form-group {
+font-weight: 300;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+padding: 1rem;
+}
+.btn {
+    text-align: center;
+}
+.btn-primary {
+    text-align: center;
+    align-items: center;
+}
+.jumbotron {
+    text-align: center;
+}
